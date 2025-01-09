@@ -1,2 +1,3 @@
 # Latihan-Git
--- UNTUK MENGETES
+-- UNTUK *MENGETES*
+* halo
